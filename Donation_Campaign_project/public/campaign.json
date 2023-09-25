@@ -3,121 +3,121 @@
       "image": "https://i.ibb.co/TTX7Cr0/Health.png",
       "title": "Clean water for children",
       "category": "Health",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Clean water for children is a fundamental necessity for healthy growth and development. Access to safe, potable water ensures that kids can stay hydrated, maintain proper hygiene, and avoid waterborne diseases. It's crucial for both physical and cognitive development. Lack of clean water can lead to illness, malnutrition, and hindered educational opportunities. Ensuring every child has access to clean water is a humanitarian imperative, promoting a brighter and healthier future for the world's youth.",
       "price": 199.99,
-      "category_bg": "#3498db",
-      "text_button_bg": "#2ecc71",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#0052FF33",
+      "text_button_bg": "#0052FF",
+      "card_bg": "#0052FF26"
     },
     {
       "image": "https://i.ibb.co/G9QfYNv/Education.png",
       "title": "Good education",
       "category": "Education",
-      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "description": "A good education is the cornerstone of personal and societal progress. It equips individuals with knowledge, critical thinking skills, and opportunities for personal growth. It empowers people to pursue their dreams, contribute to their communities, and address global challenges. A quality education system includes well-funded public schools, qualified educators, and accessible higher education. It fosters curiosity, creativity, and a love for learning. Ultimately, it is the key to unlocking potential and creating a more equitable and prosperous society for all.",
       "price": 49.99,
-      "category_bg": "#e74c3c",
-      "text_button_bg": "#9b59b6",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#FF444A33",
+      "text_button_bg": "#FF444A",
+      "card_bg": "#FF444A26"
     },
     {
       "image": "https://i.ibb.co/m4j9k6y/Clothing.png",
       "title": "Used Clothing Drive",
       "category": "Clothing",
-      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "A used clothing drive is a community initiative that encourages people to donate their gently worn clothing items. These drives aim to provide clothing for those in need while promoting recycling and reducing waste. Collected clothing is often distributed to underprivileged individuals or sold at affordable prices, with proceeds benefiting charitable causes. Such drives promote social responsibility and environmental sustainability, as they divert clothing from landfills and contribute to a more equitable society where people have access to basic necessities.",
       "price": 99.99,
-      "category_bg": "#f39c12",
-      "text_button_bg": "#e74c3c",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#79C23F33",
+      "text_button_bg": "#79C23F",
+      "card_bg": "#79C23F26"
     },
     {
       "image": "https://i.ibb.co/grLk1hY/Food.png",
       "title": "Better Food for Everyone",
       "category": "Food",
-      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "description": "Access to better food for everyone is essential for individual well-being and overall societal health. It involves promoting nutritious, affordable, and sustainably sourced food options. By prioritizing healthier diets, we can combat malnutrition, obesity, and related health issues, leading to longer and more productive lives. This endeavor also supports sustainable agriculture practices, reducing environmental impacts. It's a crucial step towards ensuring that all individuals, regardless of their socioeconomic status, can enjoy improved food choices that promote better health and a more sustainable future for our planet.",
       "price": 79.99,
-      "category_bg": "#3498db",
-      "text_button_bg": "#2ecc71",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#F8714733",
+      "text_button_bg": "#F87147",
+      "card_bg": "#F8714726"
     },
     {
       "image": "https://i.ibb.co/grLk1hY/Food.png",
       "title": "Better Food for Everyone",
       "category": "Food",
-      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "Access to better food for everyone is essential for individual well-being and overall societal health. It involves promoting nutritious, affordable, and sustainably sourced food options. By prioritizing healthier diets, we can combat malnutrition, obesity, and related health issues, leading to longer and more productive lives. This endeavor also supports sustainable agriculture practices, reducing environmental impacts. It's a crucial step towards ensuring that all individuals, regardless of their socioeconomic status, can enjoy improved food choices that promote better health and a more sustainable future for our planet.",
       "price": 59.99,
-      "category_bg": "#e74c3c",
-      "text_button_bg": "#9b59b6",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#F8714733",
+      "text_button_bg": "#F87147",
+      "card_bg": "#F8714726"
     },
     {
       "image": "https://i.ibb.co/m4j9k6y/Clothing.png",
       "title": "Used Clothing Drive",
       "category": "Clothing",
-      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+      "description": "A used clothing drive is a community initiative that encourages people to donate their gently worn clothing items. These drives aim to provide clothing for those in need while promoting recycling and reducing waste. Collected clothing is often distributed to underprivileged individuals or sold at affordable prices, with proceeds benefiting charitable causes. Such drives promote social responsibility and environmental sustainability, as they divert clothing from landfills and contribute to a more equitable society where people have access to basic necessities.",
       "price": 149.99,
-      "category_bg": "#f39c12",
-      "text_button_bg": "#e74c3c",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#79C23F33",
+      "text_button_bg": "#79C23F",
+      "card_bg": "#79C23F26"
     },
     {
       "image": "https://i.ibb.co/G9QfYNv/Education.png",
       "title": "Good education",
       "category": "Education",
-      "description": "Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+      "description": "A good education is the cornerstone of personal and societal progress. It equips individuals with knowledge, critical thinking skills, and opportunities for personal growth. It empowers people to pursue their dreams, contribute to their communities, and address global challenges. A quality education system includes well-funded public schools, qualified educators, and accessible higher education. It fosters curiosity, creativity, and a love for learning. Ultimately, it is the key to unlocking potential and creating a more equitable and prosperous society for all.",
       "price": 129.99,
-      "category_bg": "#3498db",
-      "text_button_bg": "#2ecc71",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#FF444A33",
+      "text_button_bg": "#FF444A",
+      "card_bg": "#FF444A26"
     },
     {
       "image": "https://i.ibb.co/TTX7Cr0/Health.png",
       "title": "Clean water for children ",
       "category": "Health",
-      "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "description": "Clean water for children is a fundamental necessity for healthy growth and development. Access to safe, potable water ensures that kids can stay hydrated, maintain proper hygiene, and avoid waterborne diseases. It's crucial for both physical and cognitive development. Lack of clean water can lead to illness, malnutrition, and hindered educational opportunities. Ensuring every child has access to clean water is a humanitarian imperative, promoting a brighter and healthier future for the world's youth.",
       "price": 69.99,
-      "category_bg": "#e74c3c",
-      "text_button_bg": "#9b59b6",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#0052FF33",
+      "text_button_bg": "#0052FF",
+      "card_bg": "#0052FF26"
     },
     {
       "image": "https://i.ibb.co/TTX7Cr0/Health.png",
       "title": "Clean water for children",
       "category": "Health",
-      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+      "description": "Clean water for children is a fundamental necessity for healthy growth and development. Access to safe, potable water ensures that kids can stay hydrated, maintain proper hygiene, and avoid waterborne diseases. It's crucial for both physical and cognitive development. Lack of clean water can lead to illness, malnutrition, and hindered educational opportunities. Ensuring every child has access to clean water is a humanitarian imperative, promoting a brighter and healthier future for the world's youth.",
       "price": 199.99,
-      "category_bg": "#f39c12",
-      "text_button_bg": "#e74c3c",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#0052FF33",
+      "text_button_bg": "#0052FF",
+      "card_bg": "#0052FF26"
     },
     {
       "image": "https://i.ibb.co/G9QfYNv/Education.png",
       "title": "Good education",
       "category": "Education",
-      "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+      "description": "A good education is the cornerstone of personal and societal progress. It equips individuals with knowledge, critical thinking skills, and opportunities for personal growth. It empowers people to pursue their dreams, contribute to their communities, and address global challenges. A quality education system includes well-funded public schools, qualified educators, and accessible higher education. It fosters curiosity, creativity, and a love for learning. Ultimately, it is the key to unlocking potential and creating a more equitable and prosperous society for all.",
       "price": 99.99,
-      "category_bg": "#3498db",
-      "text_button_bg": "#2ecc71",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#FF444A33",
+      "text_button_bg": "#FF444A",
+      "card_bg": "#FF444A26"
     },
     {
       "image": "https://i.ibb.co/m4j9k6y/Clothing.png",
       "title": "Used Clothing Drive",
       "category": "Clothing",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti.",
+      "description": "A used clothing drive is a community initiative that encourages people to donate their gently worn clothing items. These drives aim to provide clothing for those in need while promoting recycling and reducing waste. Collected clothing is often distributed to underprivileged individuals or sold at affordable prices, with proceeds benefiting charitable causes. Such drives promote social responsibility and environmental sustainability, as they divert clothing from landfills and contribute to a more equitable society where people have access to basic necessities.",
       "price": 79.99,
-      "category_bg": "#e74c3c",
-      "text_button_bg": "#9b59b6",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#79C23F33",
+      "text_button_bg": "#79C23F",
+      "card_bg": "#79C23F26"
     },
     {
       "image": "https://i.ibb.co/grLk1hY/Food.png",
       "title": "Better Food for Everyone",
       "category": "Food",
-      "description": "Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+      "description": "Access to better food for everyone is essential for individual well-being and overall societal health. It involves promoting nutritious, affordable, and sustainably sourced food options. By prioritizing healthier diets, we can combat malnutrition, obesity, and related health issues, leading to longer and more productive lives. This endeavor also supports sustainable agriculture practices, reducing environmental impacts. It's a crucial step towards ensuring that all individuals, regardless of their socioeconomic status, can enjoy improved food choices that promote better health and a more sustainable future for our planet.",
       "price": 149.99,
-      "category_bg": "#f39c12",
-      "text_button_bg": "#e74c3c",
-      "card_bg": "#f2f2f2"
+      "category_bg": "#F8714733",
+      "text_button_bg": "#F87147",
+      "card_bg": "#F8714726"
     }
   ]
   
