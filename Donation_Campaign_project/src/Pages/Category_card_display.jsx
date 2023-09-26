@@ -1,14 +1,9 @@
 /* eslint-disable react/prop-types */
 
-import { Link } from "react-router-dom";
-
-
-const Camp_cards = ({ data }) => {
-    const { id, title, category, image, card_bg, text_button_bg, category_bg } = data
+const Category_card_display = ({data}) => {
+    const { title, category, image, card_bg, text_button_bg, category_bg } = data;
     return (
-
         <div className="rounded-xl" >
-            <Link to={`/Single_card/${id}`} >
                 <div style={{ position: "relative", display: "flex", flexDirection: "column", borderRadius: "12px", color: text_button_bg, boxShadow: "2px", backgroundColor: card_bg }}>
                     <div className="relative h-96 overflow-hidden rounded-xl bg-white bg-clip-border text-gray-700">
                         <img src={image} className="h-full w-full object-cover" />
@@ -23,11 +18,9 @@ const Camp_cards = ({ data }) => {
 
                     </div>
                 </div>
-            </Link>
 
         </div>
-
     );
 };
 
-export default Camp_cards;
+export default Category_card_display;

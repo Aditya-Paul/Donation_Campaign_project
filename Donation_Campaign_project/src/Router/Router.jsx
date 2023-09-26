@@ -5,6 +5,8 @@ import Error_page from "../Component/Error_page";
 import Single_card from "../Pages/Single card/Single_card";
 import Donation from "../Pages/Donation/Donation";
 import Statistics from "../Pages/Statistics/Statistics";
+import Banner from "../Pages/Home/Banner";
+import Category_Cards from "../Pages/Category_Cards";
 
 const myCreatedRoute = createBrowserRouter([
     {
@@ -30,6 +32,15 @@ const myCreatedRoute = createBrowserRouter([
                 path:"/statistics",
                 element:<Statistics></Statistics>,
                 loader: ()=> fetch('/campaign.json')
+            },
+            {
+                path:"/",
+                element:<Banner></Banner>,
+                loader: ()=> fetch('/campaign.json')
+            },
+            {
+                path:"/Category_Cards",
+                element:<Category_Cards></Category_Cards>
             }
         ]
     }
