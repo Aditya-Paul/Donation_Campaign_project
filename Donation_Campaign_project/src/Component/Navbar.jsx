@@ -43,6 +43,8 @@ const Navbar = () => {
                             Statistics
                         </NavLink>
                     </li>
+
+                    
                     
                 </ul>
 

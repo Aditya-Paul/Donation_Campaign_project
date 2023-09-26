@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useLoaderData, useParams } from "react-router-dom";
-import Single_card_details from "./Single_card_details";
+import Donation_details from "./Donation_details";
 
 
 const Single_card = () => {
@@ -20,7 +20,7 @@ const Single_card = () => {
 
     return (
         <div className="mt-16">
-            <Single_card_details card={card}></Single_card_details>
+            <Donation_details card={card}></Donation_details>
         </div>
     );
 };
