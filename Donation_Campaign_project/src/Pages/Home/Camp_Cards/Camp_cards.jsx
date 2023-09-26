@@ -19,7 +19,7 @@ const Camp_cards = ({ data }) => {
                         <p style={{ backgroundColor: category_bg }} className="rounded-md mt-5 ml-[16px] w-fit pl-2 pr-2">{category}</p>
                     </div>
                     <div className="">
-                        <p className=" ml-[16px]  mt-2 text-xl font-sans text-base font-medium leading-relaxed text-blue-gray-900  antialiased">
+                        <p className=" ml-[16px] mb-4 mt-2 text-xl font-sans text-base font-medium leading-relaxed text-blue-gray-900  antialiased">
                             {title}
                         </p>
 

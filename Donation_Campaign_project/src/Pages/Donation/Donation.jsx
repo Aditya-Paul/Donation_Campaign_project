@@ -5,18 +5,12 @@ import Donation_cards from "./Donation_cards";
 const Donation = () => {
     const [donations, setdonations] = useState([]);
     const [isShow, setIsShow] = useState(false);
-
-    const [total_card_amount, setTotal_card_amount] = useState(0)
+    
     useEffect(() => {
         const DonationItems = JSON.parse(localStorage.getItem("Donations"));
         console.log(DonationItems.length)
         if (DonationItems) {
             setdonations(DonationItems);
-
-            const total = DonationItems.reduce((preValue, currentItem) => preValue + currentItem.length, 0)
-
-            console.log(total);
-            setTotal_card_amount(total)
         }
     }, []);
 
@@ -25,7 +19,6 @@ const Donation = () => {
     return (
         <div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-                <h1>Total amnt: {total_card_amount}</h1>
                 {
                     isShow ? donations.map((card) => (
                         <Donation_cards key={card.id} card={card}></Donation_cards>

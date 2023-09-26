@@ -1,8 +1,7 @@
-# React + Vite
+Question: Add at least 3 Project features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+++ we use fake json data, also use loader and useLoaderData() to create dynamic cards
 
-Currently, two official plugins are available:
+++ we use localstorage to store data and we can easily get data from localstorege
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+++ we use pie cart to display how many percentage i donate from the total donation
