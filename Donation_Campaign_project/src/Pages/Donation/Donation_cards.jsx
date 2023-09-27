@@ -9,8 +9,6 @@ const Donation_cards = ({ card }) => {
     const navigate = useNavigate()
 
     const handleNavigate = () => {
-        console.log("hello")
-
         const user = true
         if (user) {
             navigate(`/Single_card/${id}`)

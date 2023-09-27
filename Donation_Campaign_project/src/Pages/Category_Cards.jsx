@@ -4,7 +4,6 @@ import Category_card_display from "./Category_card_display";
 
 
 const Category_Cards = ({data}) => {
-    console.log(data[0],data[1])
     return (
         <div>
             {

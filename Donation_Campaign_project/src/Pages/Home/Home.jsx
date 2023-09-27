@@ -7,13 +7,13 @@ const Home = () => {
     const datas = useLoaderData()
     console.log(datas)
     return (
-        <div>
+        <div className="">
             <Banner></Banner>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 py-10 ">
-                {
-                    datas.map(data =><Camp_cards key={data.index} data={data}></Camp_cards>)
-                }
-            </div>
+                <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 py-10 ">
+                    {
+                        datas.map(data => <Camp_cards key={data.index} data={data}></Camp_cards>)
+                    }
+                </div>
         </div>
     );
 };

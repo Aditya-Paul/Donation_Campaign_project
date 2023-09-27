@@ -4,8 +4,8 @@ const Category_card_display = ({data}) => {
     const { title, category, image, card_bg, text_button_bg, category_bg } = data;
     return (
         <div className="rounded-xl" >
-                <div style={{ position: "relative", display: "flex", flexDirection: "column", borderRadius: "12px", color: text_button_bg, boxShadow: "2px", backgroundColor: card_bg }}>
-                    <div className="relative h-96 overflow-hidden rounded-xl bg-white bg-clip-border text-gray-700">
+                <div style={{ position: "", display: "flex", flexDirection: "column", borderRadius: "12px", color: text_button_bg, boxShadow: "2px", backgroundColor: card_bg }}>
+                    <div className=" h-96 overflow-hidden rounded-xl bg-white bg-clip-border text-gray-700">
                         <img src={image} className="h-full w-full object-cover" />
                     </div>
                     <div  >

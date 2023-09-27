@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import { Outlet } from "react-router-dom";
 import Navbar from "../Component/Navbar";
 
